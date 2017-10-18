@@ -1,0 +1,127 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+
+
+
+#Auto-aprendizagem
+- name:
+    detail: Auto-aprendizagem "Hello World!"
+    i18n: company_a
+  desc:
+    detail: Obtive certificação por concluir em cursar eventual carga horária pelo Curso de Informática Básica & Avançado, operando pacote Office e gerenciando sistema windows...
+    i18n: company_a_desc
+  date:
+    detail: Março. 2001
+    i18n: company_a_date
+  job:
+    detail: Aprendiz de TI 
+    i18n: company_a_job
+  icon: fa-plus-square
+
+#Auto-aprendizagem Manutenção
+- name:
+    detail: Executando manutenção definitivas e preventivas
+    i18n: company_a
+  desc:
+    detail: Aprendi muito nesta época com as trocas de idéias em assuntos sobre tecnologias com meus amigos. A cada dia uma chance de aprender algo novo, seja por livros, blogs ou fóruns na internet. Pratiquei por horas a instalação e manuntenção de Hardware & Software...
+    i18n: company_a_desc
+  date:
+    detail: Maio. 2006
+    i18n: company_a_date
+  job:
+    detail: Aprendiz de TI 
+    i18n: company_a_job
+  icon: fa-plus-square
+
+  #Auto-aprendizagem Manutenção
+- name:
+    detail: Auxiliar de Suporte de TI
+    i18n: company_a
+  desc:
+    detail: Prestei auxilio de suporte técnico para empresa ATI Super Info...
+    i18n: company_a_desc
+  date:
+    detail: Maio. 2009
+    i18n: company_a_date
+  job:
+    detail: Aux. Suporte de TI
+    i18n: company_a_job
+  icon: fa-plus-square
+
+#Auto-aprendizagem Manutenção
+- name:
+    detail: Programação Computacional
+    i18n: company_a
+  desc:
+    detail: Conquistei a vontade de conhecer como funciona os Sistemas de Informação, Games, Aplicativos e modo geral a lógica de programação computacional. Iniciando a prática de conhecimentos técnicos no Windows, aprendendo a gerenciar o Sistema pelo prompt de comando...
+    i18n: company_a_desc
+  date:
+    detail: Maio. 2010
+    i18n: company_a_date
+  job:
+    detail: Técnico de Informática
+    i18n: company_a_job
+  icon: fa-plus-square
+
+
+
+
+#Técnico em Informática
+- name:
+    detail: Função de Suporte Técnico em Informática
+    i18n: company_a
+  desc:
+    detail: Inicie no Instituto Federal de Ciências e Tecnologia do ES o curso de Técnico em Informática com ênfase em Programação Web e logo após 5 meses eu exerci a função de TI no orgão público por 1 anos e durante o percurso também prestei serviços a pequenas e médias empresas...
+    i18n: company_a_desc
+  date:
+    detail: Fevereiro. 2015
+    i18n: company_a_date
+  job:
+    detail: Técnico em Informática
+    i18n: company_a_job
+  icon: fa-plus-square
+
+#Identidade visual
+- name:
+    detail: Identidades Visuais & Gráficos vetoriais
+    i18n: company_a
+  desc:
+    detail: Layouts agradáveis para um rústico e-commerce de acessórios e peças de artesanatos, Loja Virtual com sua logomarca, banners, pacotes de publicidades e layout...
+    i18n: company_a_desc
+  date:
+    detail: Fevereiro. 2015
+    i18n: company_a_date
+  job:
+    detail: Web Designer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+#Desenvolvedor Web
+- name:
+    detail: Desenvolvendo para a Web
+    i18n: company_b
+  desc:
+    detail: Prestei acessoria por 1 ano em desenvolvimento de Websites, blogs, hotsite, Loja Virtual e Layouts. Obtenho API's construídas por mim em Laravel PHP, Node.js + Express.Js e MySQL ou MongoDB...
+    i18n: company_b_desc
+  date:
+    detail: Junho. 2016
+    i18n: company_b_date
+  job:
+    detail: Full Stack Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+#Desenvolvedor Web
+- name:
+    detail: Arquitetura de Software/ Desenvolvimento Web/ Marketing Digital/ Web Design
+    i18n: company_b
+  desc:
+    detail: Este ano foi fundada a nova agência online AHS CODE que presta serviços digitais para todo o Brasil.
+    i18n: company_b_desc
+  date:
+    detail: julho, 2017
+    i18n: company_b_date
+  job:
+    detail: Full Stack Developer
+    i18n: company_b_job
+  icon: fa-plus-square
