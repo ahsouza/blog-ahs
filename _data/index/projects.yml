@@ -8,6 +8,7 @@
   repo: /ahsouza.github.io
   img: /static/assets/img/landing/jekyll.png
   desc: Hotsite desenvolvido em Hugo com ótima otimização para qualquer tipos de dispositivos computacionais. Serviços de Chat e Google Analytics para coletar métricas estão implantado no Site.
+  
 - name: PALPITÃO
   i18n: cpython
   gh_user: ahsouza
