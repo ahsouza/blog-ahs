@@ -3,16 +3,16 @@
 label: Competências
 id : cs
 aspects: Git, 
-         Desenvolvimento de Web APIs,
-         Desenvolvimento Front-End,
-         Programador de Sites e páginas estáticas (jekyll ruby, Hugo)
-         Framewoks CSS e pré-processadores,
+         Web API,
+         Angular.JS,
+         Jekyll (Ruby),
+         CSS/SCSS/LESS,
          PHP,
          JAVA,
-         DB MySQL,
+         MySQL,
          MongoDB,
          C#,
-         Framework MVC ASP.NET,
+         ASP.NET,
          Python,
          JavaScript,
          Node.JS,
