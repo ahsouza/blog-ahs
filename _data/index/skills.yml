@@ -2,5 +2,41 @@
 
 label: Competências
 id : cs
-aspects: Git, Web API Development, HTML5, Bootstrap, ReactJS, PHP, JAVA, Hexo, Static sites and pages with Jekyll (Ruby), Hugo, MySQL, MongoDB, C#, ASP.NET, Python, JavaScript, Laravel, Django, Node, Express, Inkscape, Photoshop, Gimp, Illustrator, Linux, Windows 
-percentage: 100, 100,   100,    100,       80,      70,  70,   100,  100,    100,  100,    100,  70,  75,      80,     100,        80,     90,     100,  100,      100,     90,        80,    60,           100,     100 
+aspects: Git, 
+         Desenvolvimento de Web APIs,
+         Desenvolvimento Front-End,
+         Programador de Sites e páginas estáticas (jekyll ruby, Hugo)
+         Framewoks CSS e pré-processadores,
+         PHP,
+         JAVA,
+         DB MySQL,
+         MongoDB,
+         C#,
+         Framework MVC ASP.NET,
+         Python,
+         JavaScript,
+         Node.JS,
+         Inkscape,
+         Photoshop,
+         Gimp,
+         Linux,
+         Windows 
+percentage: 95,
+            100,
+            100,
+            95,
+            80,
+            70,
+            70,
+            100,
+            100,
+            60,
+            65,
+            60,
+            90,
+            80,
+            90,
+            80,
+            70,
+            90,
+            100,
