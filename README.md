@@ -6,4 +6,4 @@
 ![alt text](https://github.com/ahsouza/blog-ahs/blob/master/1.png)
 
 
-> _[Acesse aqui! ](http://ahscode.com.br/blog-ahs/)_
+> _[Acesse aqui! ](https://ahsouza.github.io//blog-ahs/)_
