@@ -4,7 +4,7 @@
 title: AHS JEKYLL-BLOG
 description: Usando Blog.
 keywords: Jack,Jalpc,blog,Jekyll,github,gh-pages
-baseurl: http://ahscode.com.br/blog-ahs #if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+baseurl: https://ahsouza.github.io/blog-ahs #if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: localhost:4000  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
@@ -18,9 +18,9 @@ author:  # change following line to your infomation.
   github_username: ahsouza  # Leave blank if you don't have now
   linkedin_id: anibalhenriquesouza # Leave blank if you don't have now
   facebook_username: anibalhsouza # Leave blank if you don't have now
-  twitter_username:  # Leave blank if you don't have now
+  twitter_username:  anibalhsouza# Leave blank if you don't have now
   email: annibalhsouza@gmail.com  # Leave blank if you don't have now
-  cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
+  cv: https://github.com/ahsouza/cv  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
     - name: icon-apache
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Sou um jovem de 24 anos, apaixonado pela carreira de Programação Web. Frequentemente buscando obter sempre novosconhecimentos.  #Describe yourself.
+  desc: Sou um jovem de 26 anos, apaixonado pela carreira de Programação Web. Frequentemente buscando obter sempre novos conhecimentos para aprimorar minhas habilidades.  #Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
